@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1 ETC1010 - 5510"
+title: "weather_prediction"
 author: "Jason Ching Yuen Siu"
 date: "`r format(Sys.Date(), '%A, %B %e %Y')`"
 output:
